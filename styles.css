@@ -16,6 +16,7 @@ body {
 }
 
 .home ul {
+  width: fit-content;
   margin: 0 auto;
   margin-bottom: 32px;
 }
