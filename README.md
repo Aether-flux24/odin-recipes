@@ -10,3 +10,4 @@ Basic recipe website to practice the HTML knowledge I have acquired. The website
 - Using relative and absolute links to other webpages
 - Adding images and giving attribution credit
 - Project organisation and file management
+- Using CSS to add styling to HTML
