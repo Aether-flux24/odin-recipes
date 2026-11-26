@@ -1,3 +1,21 @@
 body {
   background-color: #fff1e6;
 }
+
+.home {
+  background-color: white;
+  width: 90%;
+  max-width: 600px;
+  padding: 32px;
+  margin: 0 auto;
+}
+
+.home h1 {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.home ul {
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
